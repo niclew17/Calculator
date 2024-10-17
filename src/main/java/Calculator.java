@@ -10,7 +10,7 @@ class Calculator {
         uniqueIDs = new HashSet<>();
     }
 
-    // This will add values
+    // This will add values together
     int add(int a, int b) {
         return a + b;
     }
