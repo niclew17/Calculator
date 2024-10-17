@@ -15,7 +15,7 @@ class Calculator {
         return a + b;
     }
 
-    // This will subtract values
+    // This will subtract values together
     int subtract(int a, int b) {
         return a - b;
     }
